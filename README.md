@@ -1,5 +1,5 @@
 # Simulação do fogo do jogo Doom
-Durante meus estudos de Javascript, me arrisquei a tentar fazer o desafio da recriação do fogo de um jogo antigo chamado Doom utilizando uma estrutura de dados chamada Matriz Linear.
+Durante meus estudos em Javascript, me arrisquei a tentar fazer o desafio da recriação do fogo de um jogo antigo chamado Doom utilizando uma estrutura de dados chamada Matriz Linear.
 
 <p align="center">
   <a src="https://github.com/littlebru/doom-fire-js">
