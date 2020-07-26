@@ -1,5 +1,5 @@
 # Simulação do fogo do jogo Doom
-Durante meus estudos de Javascript, me arrisquei a tentar fazer o desafio da recriação do fogo de um jogo antigo chamado Doom utilizando estrutura de dados chamado Linear Array.
+Durante meus estudos de Javascript, me arrisquei a tentar fazer o desafio da recriação do fogo de um jogo antigo chamado Doom utilizando uma estrutura de dados chamada Matriz Linear.
 
 <p align="center">
   <a src="https://github.com/littlebru/doom-fire-js">
@@ -7,8 +7,8 @@ Durante meus estudos de Javascript, me arrisquei a tentar fazer o desafio da rec
   </a>
 </p>
 
-## Linear Array
-Uma matriz linear é uma lista de números finitos de elementos armazenados na memória. Em uma matriz linear, podemos armazenar apenas elementos de dados homogêneos. Os elementos da matriz formam uma sequência ou lista linear, que pode ter o mesmo tipo de dados.
+## Matriz Linear
+É uma lista de números finitos de elementos armazenados na memória. Em uma matriz linear, podemos armazenar apenas elementos de dados homogêneos. Os elementos da matriz formam uma sequência ou lista linear, que pode ter o mesmo tipo de dados.
 
 <p align="center">
   <a src="https://github.com/littlebru/doom-fire-js">
